@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Reserva 1",
+      "day": "2023-06-24",
+      "time": "10:00 AM",
+      "numberOfPeople": 2,
+      "link": "https://example.com/reservation/1"
+    },
+    {
+      "title": "Reserva 2",
+      "day": "2023-06-25",
+      "time": "11:30 AM",
+      "numberOfPeople": 4,
+      "link": "https://example.com/reservation/2"
+    },
+    {
+      "title": "Reserva 3",
+      "day": "2023-06-26",
+      "time": "1:00 PM",
+      "numberOfPeople": 3,
+      "link": "https://example.com/reservation/3"
+    },
+    {
+      "title": "Reserva 4",
+      "day": "2023-06-27",
+      "time": "3:30 PM",
+      "numberOfPeople": 5,
+      "link": "https://example.com/reservation/4"
+    },
+    {
+      "title": "Reserva 5",
+      "day": "2023-06-28",
+      "time": "5:00 PM",
+      "numberOfPeople": 2,
+      "link": "https://example.com/reservation/5"
+    },
+    {
+      "title": "Reserva 6",
+      "day": "2023-06-29",
+      "time": "6:30 PM",
+      "numberOfPeople": 6,
+      "link": "https://example.com/reservation/6"
+    },
+    {
+      "title": "Reserva 7",
+      "day": "2023-06-30",
+      "time": "8:00 PM",
+      "numberOfPeople": 4,
+      "link": "https://example.com/reservation/7"
+    },
+    {
+      "title": "Reserva 8",
+      "day": "2023-07-01",
+      "time": "9:30 PM",
+      "numberOfPeople": 3,
+      "link": "https://example.com/reservation/8"
+    },
+    {
+      "title": "Reserva 9",
+      "day": "2023-07-02",
+      "time": "11:00 PM",
+      "numberOfPeople": 2,
+      "link": "https://example.com/reservation/9"
+    },
+    {
+      "title": "Reserva 10",
+      "day": "2023-07-03",
+      "time": "12:30 PM",
+      "numberOfPeople": 5,
+      "link": "https://example.com/reservation/10"
+    }
+  ]
